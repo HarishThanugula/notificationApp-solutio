@@ -1,0 +1,31 @@
+/* Write your code here. */
+.bg-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.notification-container {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+}
+.primary-bg-color {
+  background-color: #0b69ff;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  border-radius: 4px;
+  margin-bottom: 32px;
+  padding-top: 12px;
+  padding-right: 8px;
+  padding-bottom: 12px;
+  padding-left: 18px;
+}
+.icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 16px;
+}
